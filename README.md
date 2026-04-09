@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Backend+Developer;Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+Real-time+Systems;Open+to+Remote+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-acar-413ab7400/)
-[![Email](https://img.shields.io/badge/softwacar@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:softwacar@gmail.com)
+[![Email](https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:softwacar@gmail.com)
 [![Location](https://img.shields.io/badge/Sarajevo,_Bosnia-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
