@@ -1,8 +1,8 @@
 <div align="center">
 
-# Abdullah Acar 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D4FF&height=200&section=header&text=Abdullah%20Acar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20AI&descAlignY=55&descSize=18)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Backend+%7C+Web+%7C+AI;Clean+Architecture+Enthusiast;Building+Real-time+Systems;Genetic+Algorithms+%26+AI+Simulations;Open+to+Remote+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Backend+Developer;Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+Real-time+Systems;Open+to+Remote+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 
 [![Email](https://img.shields.io/badge/softwacar@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:softwacar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-acar-413ab7400/)
@@ -17,8 +17,7 @@
 
 ```text
 🎓  Software Engineering @ IUS (2022–2026)
-💼  REST APIs · Real-time Systems · React Apps
-🤖  AI simulations with Genetic Algorithms
+💼  REST APIs · Real-time Systems · React Apps · Developing AI
 🌍  Sarajevo, Bosnia — open to remote
 ```
 
