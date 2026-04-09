@@ -93,7 +93,7 @@
 
 <div align="center">
 
-![snake](https://raw.githubusercontent.com/softwacar/softwacar/output/github-contribution-grid-snake-dark.svg)
+https://capsule-render.vercel.app/api?type=cylinder&color=0:0D1117,100:00D4FF&height=120&section=footer&text=Let's%20build%20something%20great&fontSize=20&fontColor=ffffff
 
 *Let's build something great together. 🚀*
 
