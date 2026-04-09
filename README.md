@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D4FF&height=200&section=header&text=Abdullah%20Acar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20AI&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:003554,60:005F73,100:00D4FF&height=200&section=header&text=Abdullah%20Acar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20AI%20Engineer&descAlignY=55&descSize=20)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Backend+Developer;Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+Real-time+Systems;Open+to+Remote+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 
