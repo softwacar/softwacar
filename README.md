@@ -10,67 +10,7 @@
 
 </div>
 
----
 
-I'm a full stack developer who enjoys building complete products — not just components, not just APIs, but the whole thing. I care about clean architecture, good UX, and shipping work that holds up in production.
-
-Currently finishing my degree at IUS while building real projects on the side. Open to remote work.
-
----
-
-## things i work with
-
-**day to day**
-`React` `Node.js` `Express` `PostgreSQL` `Prisma` `TailwindCSS` `Docker` `JWT` `Git`
-
-**also comfortable with**
-`C#` `ASP.NET Core` `SQL Server` `Entity Framework` `SignalR` `Python`
-
----
-
-## work
-
-**[Yaplo](https://github.com/softwacar/yaplo)** — task management SaaS, built from scratch
-
-A full-stack Kanban-style app. Users can create boards, drag cards between lists, set due dates, pick Unsplash backgrounds. JWT auth with refresh token rotation, dark mode, responsive. The kind of project you'd actually pay for.
-
-> `React` `Node.js` `PostgreSQL` `Prisma` `Docker` `@dnd-kit` `TailwindCSS`
-
----
-
-**[ChatFlow API](https://github.com/softwacar/ChatFlowAPI)** — real-time chat backend
-
-WebSocket-based chat with room roles, typing indicators, message history, and full test coverage. Built with SignalR, tested with xUnit.
-
-> `ASP.NET Core 8` `SignalR` `SQL Server` `JWT` `xUnit`
-
----
-
-**[StockFlow API](https://github.com/softwacar/StockFlowAPI)** — inventory & order management
-
-Clean architecture, repository pattern, role-based auth, and unit tests throughout. The kind of backend you can actually maintain.
-
-> `ASP.NET Core 8` `EF Core` `SQL Server` `JWT` `xUnit`
-
----
-
-**[Evolutionary Robots](https://github.com/softwacar/evolutionary-robots)** — genetic algorithm simulation
-
-Robots that evolve over generations using a full GA pipeline — fitness, elitism, crossover, mutation. Real-time charts comparing 3 parallel simulations.
-
-> `Python` `Pygame` `Matplotlib` `NumPy`
-
----
-
-**[besenelektrik.com](https://besenelektrik.com)** — client website, live in production
-
-Built and delivered a complete company website for a real client. Fully responsive, shipped on time.
-
-> `React` `JavaScript` `CSS`
-
----
-
-## stats
 
 <div align="center">
 
